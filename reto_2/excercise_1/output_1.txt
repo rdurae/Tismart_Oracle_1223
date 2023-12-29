@@ -1,0 +1,15 @@
+
+Table CLIENTES alterado.
+
+Column Name: COD_CLIE
+Column Name: VAL_APE1
+Column Name: VAL_APE2
+Column Name: VAL_NOM1
+Column Name: VAL_NOM2
+Column Name: COD_SEXO
+Column Name: FEC_CREA
+Column Name: SAL_DEUD_ANTE
+Column Name: FEC_NACI
+Column Name: NOMBRE_CORTO
+
+Procedimiento PL/SQL terminado correctamente.

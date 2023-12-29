@@ -1,0 +1,3 @@
+Monto Total Rechazado (S/.): 352,45
+
+Procedimiento PL/SQL terminado correctamente.
