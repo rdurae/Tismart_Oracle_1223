@@ -1,4 +1,4 @@
--- •	En la tabla clientes agregar un campo denominado edad y calcular la edad de cada cliente.
+-- En la tabla clientes agregar un campo denominado edad y calcular la edad de cada cliente.
 CREATE OR REPLACE PROCEDURE SP_CALCULAR_EDAD
 IS
     v_edad CLIENTES.EDAD%TYPE;

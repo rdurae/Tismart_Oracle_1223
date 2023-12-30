@@ -1,0 +1,108 @@
+Cliente Actualizad: 0000572, Apellido Paterno: TITUANA, Apellido Materno: ORVERA
+Cliente Actualizad: 0000964, Apellido Paterno: CEDENO, Apellido Materno: RODRIGUEZ
+Cliente Actualizad: 0185795, Apellido Paterno: REYES, Apellido Materno: CANA
+Cliente Actualizad: 0000720, Apellido Paterno: NUNEZ, Apellido Materno: CARVAJAL
+Cliente Actualizad: 0212393, Apellido Paterno: CASTILLO, Apellido Materno: PENAFIEL
+Cliente Actualizad: 0003801, Apellido Paterno: ROMERO , Apellido Materno: QUINONEZ
+Cliente Actualizad: 0174661, Apellido Paterno: ONA, Apellido Materno: PINA
+Cliente Actualizad: 0004917, Apellido Paterno: NARVAEZ, Apellido Materno: ORDONEZ
+Cliente Actualizad: 0004990, Apellido Paterno: AGUAGUINA, Apellido Materno: QUIROZ
+Cliente Actualizad: 0007525, Apellido Paterno: MUNOZ, Apellido Materno: QUILACHAMIN
+Cliente Actualizad: 0315095, Apellido Paterno: FUENTES, Apellido Materno: MINO
+Cliente Actualizad: 0026917, Apellido Paterno: CALVOPINA , Apellido Materno: CAMACHO
+Cliente Actualizad: 0006049, Apellido Paterno: DUARTE, Apellido Materno: BAJANA
+Cliente Actualizad: 0028623, Apellido Paterno: MUNOZ, Apellido Materno: PILATAXI
+Cliente Actualizad: 0006192, Apellido Paterno: MUNOZ, Apellido Materno: ROJAS
+Cliente Actualizad: 0029372, Apellido Paterno: INIGUEZ, Apellido Materno: MENDOZA
+Cliente Actualizad: 0029678, Apellido Paterno: BANOS, Apellido Materno: MONAR
+Cliente Actualizad: 0056933, Apellido Paterno: SANCHEZ, Apellido Materno: PAZMINO
+Cliente Actualizad: 0025659, Apellido Paterno: PAZMINO, Apellido Materno: ROMERO
+Cliente Actualizad: 0026103, Apellido Paterno: ORDONEZ, Apellido Materno: SANTOS
+Cliente Actualizad: 0028705, Apellido Paterno: MUNOZ, Apellido Materno: ZAMBRANO
+Cliente Actualizad: 0052628, Apellido Paterno: DUENAS, Apellido Materno: YASELGA
+Cliente Actualizad: 0053547, Apellido Paterno: MONTUFAR, Apellido Materno: LAMINO
+Cliente Actualizad: 0024579, Apellido Paterno: CANALES, Apellido Materno: CEDENO
+Cliente Actualizad: 0025242, Apellido Paterno: CIGUENCIA, Apellido Materno: PENAFIEL
+Cliente Actualizad: 0041075, Apellido Paterno: PAZMINO, Apellido Materno: MORALES
+Cliente Actualizad: 0030545, Apellido Paterno: CEDENO, Apellido Materno: CAGUA
+Cliente Actualizad: 0032775, Apellido Paterno: AREVALO, Apellido Materno: PENAFIEL
+Cliente Actualizad: 0032013, Apellido Paterno: MACIAS, Apellido Materno: CEDENO 
+Cliente Actualizad: 0030898, Apellido Paterno: USHINA, Apellido Materno: MORALES
+Cliente Actualizad: 0297615, Apellido Paterno: BERMEO, Apellido Materno: VIZHNAY
+Cliente Actualizad: 0321575, Apellido Paterno: PENA, Apellido Materno: ROMERO
+Cliente Actualizad: 0011517, Apellido Paterno: RIVERA, Apellido Materno: BAJANA
+Cliente Actualizad: 0289558, Apellido Paterno: GALARZA, Apellido Materno: BOLANOS
+Cliente Actualizad: 0013737, Apellido Paterno: LARCOS, Apellido Materno: NUNEZ
+Cliente Actualizad: 0323543, Apellido Paterno: ZARRIA, Apellido Materno: MUNOZ
+Cliente Actualizad: 0335657, Apellido Paterno: ROMERO, Apellido Materno: COBENA
+Cliente Actualizad: 0016441, Apellido Paterno: ZUNA, Apellido Materno: CORONADO
+Cliente Actualizad: 0016244, Apellido Paterno: COBENA, Apellido Materno: RODRIGUEZ
+Cliente Actualizad: 0317047, Apellido Paterno: BAJANA, Apellido Materno: BALDEON
+Cliente Actualizad: 0328707, Apellido Paterno: CARRENO, Apellido Materno: BRAVO
+Cliente Actualizad: 0368431, Apellido Paterno: CUMBAL, Apellido Materno: MUNOZ
+Cliente Actualizad: 0007235, Apellido Paterno: MUNOZ, Apellido Materno: CEDENO
+Cliente Actualizad: 0020286, Apellido Paterno: CEDENO, Apellido Materno: VARGAS
+Cliente Actualizad: 0007898, Apellido Paterno: AVEDANO, Apellido Materno: ARTEAGA
+Cliente Actualizad: 0028034, Apellido Paterno: GARCIA, Apellido Materno: DUENAS
+Cliente Actualizad: 0014929, Apellido Paterno: PACHECO , Apellido Materno: NUNEZ 
+Cliente Actualizad: 0005981, Apellido Paterno: YEPEZ, Apellido Materno: MUNOZ
+Cliente Actualizad: 0040944, Apellido Paterno: MUNOZ, Apellido Materno: AVECILLAA
+Cliente Actualizad: 0004187, Apellido Paterno: ROSERO, Apellido Materno: TUFINO
+Cliente Actualizad: 0039050, Apellido Paterno: NUNEZ , Apellido Materno: LARA 
+Cliente Actualizad: 0007161, Apellido Paterno: CEDENO, Apellido Materno: ESPINOZA
+Cliente Actualizad: 0023239, Apellido Paterno: MUNOZ, Apellido Materno: ALCIVAR
+Cliente Actualizad: 0006017, Apellido Paterno: NUNEZ, Apellido Materno: FRANCO
+Cliente Actualizad: 0011591, Apellido Paterno: OCANA, Apellido Materno: BECERRA
+Cliente Actualizad: 0054708, Apellido Paterno: QUINONEZ , Apellido Materno: CORTEZ
+Cliente Actualizad: 0031686, Apellido Paterno: MUNOZ, Apellido Materno: GALLARDO
+Cliente Actualizad: 0042435, Apellido Paterno: NARVAEZ, Apellido Materno: ORMENO
+Cliente Actualizad: 0031213, Apellido Paterno: MALAUE, Apellido Materno: MUNOZ
+Cliente Actualizad: 0056954, Apellido Paterno: ESPINAL, Apellido Materno: PENAFIEL
+Cliente Actualizad: 0042496, Apellido Paterno: ZUNIGA, Apellido Materno: HERRERA
+Cliente Actualizad: 0023267, Apellido Paterno: CEDENO, Apellido Materno: CONFORME
+Cliente Actualizad: 0033850, Apellido Paterno: NORONA, Apellido Materno: TAPIA
+Cliente Actualizad: 0021949, Apellido Paterno: CASTANEDA, Apellido Materno: CONEJO
+Cliente Actualizad: 0032219, Apellido Paterno: ESPINOZA, Apellido Materno: ORDONEZ
+Cliente Actualizad: 0036324, Apellido Paterno: PENAHERRERA, Apellido Materno: HERNADEZ
+Cliente Actualizad: 0029022, Apellido Paterno: PROANO, Apellido Materno: TORRES 
+Cliente Actualizad: 0039467, Apellido Paterno: CRUZ, Apellido Materno: BOLANOS
+Cliente Actualizad: 0046857, Apellido Paterno: GUANA, Apellido Materno: MOROCHO
+Cliente Actualizad: 0039377, Apellido Paterno: MUNOZ, Apellido Materno: ESPARZA
+Cliente Actualizad: 0040105, Apellido Paterno: GOMEZ , Apellido Materno: PROANO 
+Cliente Actualizad: 0045715, Apellido Paterno: ESPINOZA, Apellido Materno: GUDINO
+Cliente Actualizad: 0055278, Apellido Paterno: FUENTES, Apellido Materno: SALDANA
+Cliente Actualizad: 0045018, Apellido Paterno: AMENDANO, Apellido Materno: CABRERA
+Cliente Actualizad: 0030121, Apellido Paterno: CEDENO, Apellido Materno: GARCIA
+Cliente Actualizad: 0038604, Apellido Paterno: SIMBANA, Apellido Materno: ROMERO
+Cliente Actualizad: 0045111, Apellido Paterno: CEVALLOS, Apellido Materno: CEDENO
+Cliente Actualizad: 0055916, Apellido Paterno: MUNOZ, Apellido Materno: BURGOS
+Cliente Actualizad: 0054334, Apellido Paterno: MUNOZ, Apellido Materno: LOPEZ
+Cliente Actualizad: 0035473, Apellido Paterno: ORDONEZ, Apellido Materno: ROBLES
+Cliente Actualizad: 0053382, Apellido Paterno: ORTEGA, Apellido Materno: MUNOZ
+Cliente Actualizad: 0053434, Apellido Paterno: AMAQUINA, Apellido Materno: CHANGO
+Cliente Actualizad: 0000825, Apellido Paterno: KAROLYS, Apellido Materno: PASMINO
+Cliente Actualizad: 0049668, Apellido Paterno: ZAMBRANO , Apellido Materno: DUENAS 
+Cliente Actualizad: 0000209, Apellido Paterno: MUZO, Apellido Materno: SIMBANA
+Cliente Actualizad: 0005494, Apellido Paterno: AREVALO, Apellido Materno: CEDENO
+Cliente Actualizad: 0007933, Apellido Paterno: BRAVO, Apellido Materno: ORDONEZ
+Cliente Actualizad: 0049213, Apellido Paterno: LINDAO, Apellido Materno: MUNOZ
+Cliente Actualizad: 0012789, Apellido Paterno: DUENAS, Apellido Materno: PORTILLA
+Cliente Actualizad: 0043547, Apellido Paterno: GOMEZ, Apellido Materno: CALOPINA
+Cliente Actualizad: 0040678, Apellido Paterno: BRAVO, Apellido Materno: ORDONEZ
+Cliente Actualizad: 0022525, Apellido Paterno: MUNOZ , Apellido Materno: REYNA 
+Cliente Actualizad: 0018605, Apellido Paterno: NAUPARI, Apellido Materno: TIAMARCA
+Cliente Actualizad: 0013308, Apellido Paterno: URENA, Apellido Materno: AGUILAR
+Cliente Actualizad: 0022615, Apellido Paterno: ZURITA, Apellido Materno: NUNEZ
+Cliente Actualizad: 0019316, Apellido Paterno: CALUPINA, Apellido Materno: GARZON
+Cliente Actualizad: 0018625, Apellido Paterno: NUNEZ, Apellido Materno: DAVALOS
+Cliente Actualizad: 0050500, Apellido Paterno: MOREJON, Apellido Materno: PAZMINO
+Cliente Actualizad: 0006777, Apellido Paterno: PENAFIEL, Apellido Materno: GARCIA
+Cliente Actualizad: 0004110, Apellido Paterno: QUINONEZ, Apellido Materno: MOSQUERA
+Cliente Actualizad: 0029051, Apellido Paterno: FILIAN, Apellido Materno: CEDENO
+Cliente Actualizad: 0017593, Apellido Paterno: JURADO, Apellido Materno: COBENA
+Cliente Actualizad: 0028333, Apellido Paterno: BRICENO, Apellido Materno: OJEDA
+Cliente Actualizad: 0017349, Apellido Paterno: ORNA, Apellido Materno: PROANO
+Cliente Actualizad: 0031679, Apellido Paterno: CORONEL, Apellido Materno: MUNOZ
+Cliente Actualizad: 0008003, Apellido Paterno: TELLO, Apellido Materno: PENAFIEL
+
+Procedimiento PL/SQL terminado correctamente.

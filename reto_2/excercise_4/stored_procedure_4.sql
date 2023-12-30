@@ -1,4 +1,4 @@
--- •	Crear un procedimiento almacenado que reciba como parámetros la zona, 
+-- Crear un procedimiento almacenado que reciba como parámetros la zona, 
 -- sección y devuelva como el total de monto solicitado de los pedidos 
 -- rechazados
 
